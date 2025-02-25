@@ -4,7 +4,7 @@
 
 This will copy some ``bootstrap`` program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/csd2024/tree/main) and download the repository ZIP file.  Copy the folder ``bootstrap`` into your XAMPP ``htdocs`` folder.
+Go to [this link](.) and download the repository ZIP file.  Copy the folder ``bootstrap`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``bootstrap`` with some files in it.
 
